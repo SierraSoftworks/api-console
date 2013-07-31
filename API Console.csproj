@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="AST\Generators.cs" />
     <Compile Include="AST\Language.cs" />
+    <Compile Include="Authenticator.cs" />
     <Compile Include="Controllers\ControllerBase.cs" />
     <Compile Include="Controllers\CookiesController.cs" />
     <Compile Include="Controllers\AuthController.cs" />
